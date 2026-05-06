@@ -66,8 +66,8 @@ Lines and spots — from the finest, delicate and rounded to rough and angular. 
 
 <img src="images/alexander-didenko-art (1).jpeg" width="300">
 
-**“The Ghost of the Photo Booth”**  
-I call this composition “The Ghost of the Photo Booth”. I prepared a stencil and filled it with a pattern. Do you see these faces? They are all unique, and the pattern adds to their variety. If you look at the image from a distance, these faces gradually emerge. I often see faces among spots. This quality seems to be called pareidolia. I find the image pleasing, although somewhat mysterious, and for some — even repulsive. Although it reminds me of Munch’s “The Scream”, it seems to me that there is an abyss of humor here — unlike Munch. The filling is done not with lines and dots, but with a random pattern.
+**“The Ghost of the Photobooth”**  
+I call this composition “The Ghost of the Photobooth”. I prepared a stencil and filled it with a pattern. Do you see these faces? They are all unique, and the pattern adds to their variety. If you look at the image from a distance, these faces gradually emerge. I often see faces among spots. This quality seems to be called pareidolia. I find the image pleasing, although somewhat mysterious, and for some — even repulsive. Although it reminds me of Munch’s “The Scream”, it seems to me that there is an abyss of humor here — unlike Munch. The filling is done not with lines and dots, but with a random pattern.
 
 ---
 
