@@ -85,6 +85,27 @@ This is an old photo of me and my sister, once taken by our father, which I fill
 
 ---
 
+<img src="images/alexander-didenko-art (2).jpg" width="300">
+
+**“Buveuse d’absinthe”**  
+Or, it seems, “La femme au verre d’absinthe”. I call this picture “The Absinthe Drinker”. I like this work by Picasso from 1901. I reproduced it in a smaller size with colored pencils on kraft paper. So now it is kept at my home, in a tiny A4 format.
+
+---
+
+<img src="images/alexander-didenko-art (4).jpg" width="300">
+
+**“Van Gogh’s Self-Portrait with a Pipe”**  
+The picture “Self-Portrait with Bandaged Ear and Pipe” by Vincent van Gogh was painted in January 1889 in Arles, after the famous quarrel with Paul Gauguin and the incident in which the artist cut off his earlobe. The original now belongs to the Niarchos collection (Chicago, USA). And this drawing in colored pencils is at my home, in A4 format.
+
+---
+
+<img src="images/alexander-didenko-art (3).jpg" width="300">
+
+**“Good Mood”**  
+This is a small A4 etude on kraft paper, done in graphite with the addition of a little white and blue. A portrait of a young man of our time, after a successful working day — before or after the holidays. Someone seems to have told him something cheerful. On the pencil it is written: “Life has turned out well”.
+
+---
+
 *More works at [didenko.ru](https://www.didenko.ru)*
 
 ---
