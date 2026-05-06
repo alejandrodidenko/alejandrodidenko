@@ -81,7 +81,7 @@ The world appears as a space where familiar foundations crumble and labels repla
 <img src="images/alexander-didenko-art (2).jpeg" width="300">
 
 **“Old Photo”**  
-This is an old photo of me and my sister, once taken by our father, which I filled with a pattern as rough as time. From a distance, the eye ceases to distinguish individual components — the brain sums up these particles, creating the illusion of a smooth tonal transition. The dots remain discrete but are perceived as a solid surface.
+This is an old photo of me and my sister, once taken by our father, which I filled with a pattern as rough as time. From a distance, the eye ceases to distinguish individual components, the brain sums up these particles, creating the illusion of a smooth tonal transition. The lines remain discrete but are perceived as a solid surface.
 
 ---
 
