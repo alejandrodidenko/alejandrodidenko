@@ -1,6 +1,6 @@
 # Alexander Didenko
 
-🎨 **Graphic Artist** · Absurdism vs Dadaism · Analog and digital graphics
+🎨 **Graphic Artist** · Absurdism vs Dadaism · Analog and digital drawings
 
 ---
 
