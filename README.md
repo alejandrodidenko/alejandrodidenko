@@ -1,92 +1,92 @@
-# Александр Диденко
+# Alexander Didenko
 
-🎨 **Художник-график** · Абсурдизм vs Дадаизм · Цифровая графика
-
----
-
-> *«Чёрное у меня никогда не бывает абсолютным: под ним всегда есть цветовой тон, который обогащает его и даёт глубину.»*
+🎨 **Graphic Artist** · Absurdism vs Dadaism · Digital Graphics
 
 ---
 
-### О себе и времени
-
-Это следы времени, в котором мы живём. Вокруг хватает абсурда, нелогичности. Я собираю композицию из линий и точек — от тонких и нежных до грубых и угловатых.
-
-Моя графика — это попытка говорить на языке сегодняшнего дня. Я конструирую сообщение из прямоугольных точек — от мелких до крупных, и линий — от тончайших до грубых. Чёрное идёт поверх цвета.
-
-Вблизи видна хаотичная россыпь деталей. На расстоянии они складываются в картину, которую можно рассматривать как иллюстрацию к ненаписанному роману о нашем дне.
+> *"My black is never absolute: underneath it there is always a color tone that enriches it and gives depth."*
 
 ---
 
-### Техника
+### About Me and Time
 
-**Смешанная техника:** штриховка с переменной толщиной линии + цветовой подмалёвок. Работа на оптическое смешение. Дискретная моделировка формы. Прищуривание как способ контроля целого.
+These are traces of the time we live in. There is enough absurdity and illogicality around. I assemble compositions from lines and dots — from thin and delicate to rough and angular.
 
-**Оптический эффект:** глаз усредняет мелкие точки, создавая плавный тон. Композиция разбита на 4–5 тональных зон. Для каждой зоны вручную собран узор из прямоугольных элементов (кирпичиков). Плотность узора определяет тон.
+My graphics are an attempt to speak the language of today. I construct a message from rectangular dots — from small to large, and lines — from finest to coarsest. Black goes over color.
 
-**Это не просто механическое нанесение фактуры,** а система тональной моделировки дискретными элементами, где каждая составляющая (точка, линия) работает на общий объём.
-
-**Цветная подложка** — не просто фон, а полноценный участник изображения. Когда чёрные кирпичики лежат поверх цвета, он просвечивает сквозь промежутки, обогащает их, не даёт им быть плоскими. Подложка объединяет разрозненные пятна, придаёт цельность.
+Up close, a chaotic scattering of details is visible. From a distance, they come together into a picture that can be viewed as an illustration for an unwritten novel about our days.
 
 ---
 
-### Инструменты
+### Technique
 
-Я работаю в Adobe Illustrator, отрисовываю многослойные элементы и их композиции. Рисую стилусом на планшете. Но чаще — мышкой. Среда цифровая, техника ручная.
+**Mixed technique:** hatching with variable line thickness + color underpainting. Work on optical mixing. Discrete shape modeling. Squinting as a way to control the whole.
 
-Ручное создание узоров из прямоугольных точек (кирпичиков). Плотность узора = тон. Где нужно темнее — делаю плотность выше, где светлее — реже. Тон становится управляемым, гибким.
+**Optical effect:** the eye averages small dots, creating a smooth tone. The composition is divided into 4–5 tonal zones. For each zone, a pattern of rectangular elements (bricks) is manually assembled. Pattern density determines tone.
 
----
+**This is not a mechanical application of texture,** but a system of tonal modeling with discrete elements, where each component (dot, line) works towards the overall volume.
 
-### Жанр
-
-Мои работы можно было бы назвать иллюстрациями к несуществующим литературным произведениям. Время непростое и во многом абсурдное — поэтому работы можно отнести к жанру абсурдизма.
-
-Линии и пятна — от тончайших, нежных и округлых до грубых и угловатых. Я люблю рассматривать их с большим увеличением. А на удалении детали сливаются в единую целостную композицию.
+**Color substrate** is not just a background, but a full participant in the image. When black bricks lie on top of color, it shines through the gaps, enriches them, and prevents them from being flat. The substrate unites disparate spots and gives integrity.
 
 ---
 
-### Сайт
+### Tools
 
-➡️ **[didenko.ru](https://www.didenko.ru)** — моя воображаемая экспозиция
+I work in Adobe Illustrator, drawing multi-layered elements and their compositions. I draw with a stylus on a tablet. But more often — with a mouse. Digital environment, manual technique.
 
-- [Воображаемая экспозиция](https://www.didenko.ru/) — главная галерея
-- [Деталь](https://www.didenko.ru/details-fragments-closeups-graphics-in-magnification.html) — крупные планы, фрагменты, приближение (53 фрагмента с описаниями)
-- [Прочее](https://www.didenko.ru/other-drawings-sketches-humorous-and-experimental.html) — наброски, этюды, эксперименты
+Manual creation of patterns from rectangular dots (bricks). Pattern density = tone. Where it needs to be darker, I increase the density; where lighter, I decrease it. The tone becomes manageable and flexible.
 
 ---
 
-### Соцсети
+### Genre
+
+My works could be called illustrations for non-existent literary works. The time is difficult and largely absurd — so the works can be classified in the genre of absurdism.
+
+Lines and spots — from the finest, delicate and rounded to rough and angular. I love to look at them with great magnification. And from a distance, the details merge into a single integral composition.
+
+---
+
+### Website
+
+➡️ **[didenko.ru](https://www.didenko.ru)** — my imaginary exhibition
+
+- [Imaginary Exhibition](https://www.didenko.ru/) — main gallery
+- [Detail](https://www.didenko.ru/details-fragments-closeups-graphics-in-magnification.html) — close-ups, fragments, magnification (53 fragments with descriptions)
+- [Etc](https://www.didenko.ru/other-drawings-sketches-humorous-and-experimental.html) — sketches, studies, experiments
+
+---
+
+### Social
 
 [Facebook](https://www.facebook.com/alejandrodidenko)
 
 ---
 
-### Избранные работы
+### Featured Works
 
 <img src="images/alexander-didenko-art (1).jpeg" width="300">
 
-**«Призрак фотоавтомата»**  
-Эту композицию я называю «Призрак фотоавтомата». Я подготовил трафарет и заполнил его узором. Вы видите эти лица? Все они уникальны, плюс узор добавляет разнообразия. Если посмотреть на изображение отодвинувшись, то эти лица и проступят. Я часто вижу лица среди пятен. Такое свойство, кажется, называется парейдолия. Картинка мне приятна, хотя немного загадочна, а для кого-то и отталкивающа. Хоть она и напоминает мне «Крик» Мунка, но, мне кажется, здесь бездна юмора, а у Мунка — нет. Заполнение выполнено не линиями и точками, а рандомным узором.
+**"The Ghost of the Photo Booth"**  
+I call this composition "The Ghost of the Photo Booth". I prepared a stencil and filled it with a pattern. Do you see these faces? They are all unique, plus the pattern adds variety. If you look at the image from a distance, these faces will emerge. I often see faces among spots. This property is called pareidolia. The picture pleases me, although it is somewhat mysterious and for some repulsive. Although it reminds me of Munch's "The Scream", it seems to me that there is an abyss of humor here, while Munch has none. The filling is done not with lines and dots, but with a random pattern.
 
 ---
 
 <img src="images/alexander-didenko-art (1).jpg" width="300">
 
-**Male, female, butterfly**  
-Мир, где привычные основания рассыпаются, а ярлыки подменяют сущность. Абсурдизм становится единственным языком для выражения отчуждения, когда живое перестаёт быть ценностью само по себе. Хрупкое существо, лишённое возможности двигаться, напоминает: свобода исчезает, когда её контролируют.
+**Male, Female, Butterfly**  
+The world appears as a space where familiar foundations crumble and labels replace essence. Absurdism becomes the only language to express alienation when the living ceases to be valuable in itself. A fragile creature deprived of movement reminds us: freedom disappears when it is controlled.
 
 ---
 
 <img src="images/alexander-didenko-art (2).jpeg" width="300">
 
-**Старое фото**  
-Это наше с сестрой старое фото, когда-то сделанное отцом, я заполнил грубым, как время, узором. На удалении глаз перестаёт различать отдельные составляющие, мозг суммирует частицы, создавая иллюзию плавного перехода тона. Точки остаются дискретными, но воспринимаются как сплошная поверхность.
+**Old Photo**  
+This is an old photo of me and my sister, once taken by our father, which I filled with a pattern as rough as time. From a distance, the eye ceases to distinguish individual components — the brain sums up these particles, creating the illusion of a smooth tonal transition. The dots remain discrete but are perceived as a solid surface.
 
 ---
 
-*Больше работ на [didenko.ru](https://www.didenko.ru)*
+*More works at [didenko.ru](https://www.didenko.ru)*
 
 ---
 
-© Абсурдизм vs Дадаизм
+© Absurdism vs Dadaism
