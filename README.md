@@ -62,4 +62,16 @@
 
 ---
 
+### Избранные работы
+
+<img src="images/alexander-didenko-art (1).jpeg" width="300">
+
+<img src="images/alexander-didenko-art (1).jpg" width="300">
+
+<img src="images/alexander-didenko-art (2).jpeg" width="300">
+
+*Больше работ на [didenko.ru](https://www.didenko.ru)*
+
+---
+
 © Абсурдизм vs Дадаизм
