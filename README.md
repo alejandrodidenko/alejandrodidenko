@@ -66,22 +66,22 @@ Lines and spots — from the finest, delicate and rounded to rough and angular. 
 
 <img src="images/alexander-didenko-art (1).jpeg" width="300">
 
-**"The Ghost of the Photo Booth"**  
-I call this composition "The Ghost of the Photo Booth". I prepared a stencil and filled it with a pattern. Do you see these faces? They are all unique, plus the pattern adds variety. If you look at the image from a distance, these faces will emerge. I often see faces among spots. This property is called pareidolia. The picture pleases me, although it is somewhat mysterious and for some repulsive. Although it reminds me of Munch's "The Scream", it seems to me that there is an abyss of humor here, while Munch has none. The filling is done not with lines and dots, but with a random pattern.
+**“The Ghost of the Photo Booth”**  
+I call this composition “The Ghost of the Photo Booth”. I prepared a stencil and filled it with a pattern. Do you see these faces? They are all unique, and the pattern adds variety. If you step back from the image, these faces gradually emerge. I often see faces among spots. This phenomenon is called pareidolia. The image is pleasing to me, although somewhat mysterious, and for some — repulsive. Though it reminds me of Munch’s “The Scream”, it seems to me that there is an abundance of humor here — unlike Munch. The filling is made not with lines and dots, but with a random pattern.
 
 ---
 
 <img src="images/alexander-didenko-art (1).jpg" width="300">
 
-**Male, Female, Butterfly**  
-The world appears as a space where familiar foundations crumble and labels replace essence. Absurdism becomes the only language to express alienation when the living ceases to be valuable in itself. A fragile creature deprived of movement reminds us: freedom disappears when it is controlled.
+**“Male, Female, Butterfly”**  
+The world appears as a space where familiar foundations crumble and labels replace essence. Absurdism becomes the only language capable of expressing alienation when the living ceases to be valuable in itself. A fragile creature, deprived of the ability to move, reminds us: freedom disappears when it is controlled.
 
 ---
 
 <img src="images/alexander-didenko-art (2).jpeg" width="300">
 
-**Old Photo**  
-This is an old photo of me and my sister, once taken by our father, which I filled with a pattern as rough as time. From a distance, the eye ceases to distinguish individual components — the brain sums up these particles, creating the illusion of a smooth tonal transition. The dots remain discrete but are perceived as a solid surface.
+**“Old Photo”**  
+This is an old photo of me and my sister, once taken by our father, which I filled with a pattern as rough as time. From a distance, the eye no longer distinguishes individual components — the brain sums up these particles, creating the illusion of a smooth tonal transition. The dots remain discrete but are perceived as a solid surface.
 
 ---
 
